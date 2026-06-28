@@ -1,26 +1,28 @@
 # basic-form-js
 
-Formulário em JavaScript — HTML, CSS e manipulação de dados para a disciplina de Programação WEB.
+Form in JavaScript — HTML, CSS, and data manipulation for the WEB Programming course.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-3da639.svg)](LICENSE)
-![Status](https://img.shields.io/badge/status-concluído-6f42c1)
+![Status](https://img.shields.io/badge/status-completed-6f42c1)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](https://developer.mozilla.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/)
 
-## Sobre
+[Portuguese](README.pt.md) | English
 
-Formulário HTML com validação e renderização de dados em JavaScript puro. Utiliza Bootstrap para estilização e manipula o DOM para adicionar, editar e remover entradas da tabela.
+## About
 
-## Como executar
+HTML form with validation and data rendering in plain JavaScript. Uses Bootstrap for styling and manipulates the DOM to add, edit, and remove entries in the table.
 
-Abrir o `index.html` num navegador. Não requer servidor — funciona diretamente do ficheiro.
+## How to run
 
-## Licença
+Open `index.html` in a browser. No server required — works directly from the file.
 
-Distribuído sob a licença **MIT**, © 2025 Nycolas Souza.
+## License
 
-É uma licença permissiva: qualquer pessoa pode usar, copiar, modificar e distribuir o código, inclusive em projetos comerciais, desde que mantenha o aviso de copyright e o texto da licença.
+Distributed under the **MIT** license, © 2025 Nycolas Souza.
 
-O texto completo está em [LICENSE](LICENSE).
+It is a permissive license: anyone can use, copy, modify, and distribute the code, including in commercial projects, as long as the copyright notice and license text are retained.
+
+The full text is in [LICENSE](LICENSE).
